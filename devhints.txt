@@ -1,0 +1,350 @@
+Ruby	stimulus-reflex	StimulusReflex 
+CLI	screen	Screen 
+Ruby libraries	factory_bot	Factory Bot 
+Vim	vimscript	Vim scripting 
+Vim	vim	Vim 
+React	react	React.js 
+Databases	mysql	MySQL 
+CLI	httpie	httpie 
+JavaScript libraries	flow	Flow 
+CLI	bash	Bash scripting 
+CSS	sass	Sass 
+Others	resolutions	Screen resolutions 
+Markup	emmet	Emmet 
+Markup	markdown	Markdown 
+JavaScript libraries	lodash	Lodash 
+Node.js	package-json	package.json 
+JavaScript	jsdoc	Jsdoc 
+C-like	go	Go 
+Analytics	analytics.js	Google Analytics's analytics.js 
+Analytics	analytics	Analytics libraries 
+Analytics	mixpanel	Mixpanel 
+Ansible	ansible-examples	Ansible examples 
+Ansible	ansible-guide	Ansible quickstart 
+Ansible	ansible-modules	Ansible modules 
+Ansible	ansible-roles	Ansible roles 
+Ansible	ansible	Ansible 
+Apps	atom	Atom 
+Apps	editorconfig	editorconfig 
+Apps	flashlight	Flashlight 
+Apps	inkscape	Inkscape 
+Apps	org-mode	Org Mode 
+Apps	sketch	Sketch 
+Apps	spacemacs	Spacemacs 
+Apps	sublime-text	Sublime Text 
+Apps	vscode	Visual Studio Code 
+Apps	weechat	Weechat 
+C-like	c_preprocessor	C Preprocessor 
+C-like	csharp7	C# 7 
+C-like	go	Go 
+CLI	adb	adb (Android Debug Bridge) 
+CLI	animated_gif	Animated GIFs 
+CLI	ansi	Ansi codes 
+CLI	bash	Bash scripting 
+CLI	composer	composer 
+CLI	cron	Cron 
+CLI	curl	Curl 
+CLI	emacs	Emacs 
+CLI	ffmpeg	ffmpeg 
+CLI	find	Find 
+CLI	fish-shell	Fish shell 
+CLI	gnupg	GnuPG 
+CLI	homebrew	Homebrew 
+CLI	httpie	httpie 
+CLI	makefile	Makefile 
+CLI	man	Man 
+CLI	ncftp	ncftp 
+CLI	pass	Pass 
+CLI	pm2	pm2 
+CLI	rename	rename 
+CLI	rsync	Rsync 
+CLI	rtorrent	rTorrent 
+CLI	scp	scp 
+CLI	screen	Screen 
+CLI	sed	sed 
+CLI	sh-pipes	Shell: named pipes 
+CLI	sh	Shell scripting /bash
+CLI	tmux	tmux 
+CLI	top	top 
+CLI	watchexec	Watchexec 
+CLI	zsh	zsh 
+CSS	bootstrap	Bootstrap 
+CSS	bulma	Bulma 
+CSS	css-antialias	CSS antialiasing 
+CSS	css-flexbox	CSS flexbox 
+CSS	css-grid	CSS Grid 
+CSS	css-system-font-stack	CSS system fonts 
+CSS	css-tricks	CSS tricks 
+CSS	css	CSS 
+CSS	cssnext	cssnext 
+CSS	sass	Sass 
+CSS	stylus	Stylus 
+Databases	knex	Knex 
+Databases	mysql	MySQL 
+Databases	postgresql-json	PostgreSQL JSON 
+Databases	postgresql	PostgreSQL 
+Databases	sql-join	SQL joins 
+Devops	awscli	AWS CLI 
+Devops	chef	Chef 
+Devops	circle	CircleCI 
+Devops	deis	Deis 
+Devops	docker-compose	docker-compose 
+Devops	docker	Docker CLI 
+Devops	dockerfile	Dockerfile 
+Devops	flynn	Flynn 
+Devops	heroku	Heroku 
+Devops	travis	Travis.yml 
+Devops	vagrant	Vagrant 
+Devops	vagrantfile	Vagrantfile 
+Elixir	elixir-metaprogramming	Elixir metaprogramming 
+Elixir	elixir	Elixir 
+Elixir	ets	Erlang ETS 
+Elixir	exunit	ExUnit 
+Elixir	phoenix-conn	Phoenix: Plug.Conn 
+Elixir	phoenix-ecto	Phoenix: Ecto 
+Elixir	phoenix-ecto@1.2	Phoenix: Ecto models 
+Elixir	phoenix-migrations	Phoenix: Ecto migrations 
+Elixir	phoenix-routing	Phoenix: Routing 
+Elixir	phoenix	Phoenix 
+Elixir	phoenix@1.2	Phoenix 1.2 
+Git	git-branch	Git branches 
+Git	git-extras	Git extras 
+Git	git-log-format	Git log format string 
+Git	git-log	git log 
+Git	git-revisions	Git revisions 
+Git	git-tricks	Git tricks 
+Git	tig	Tig 
+HTML	appcache	Appcache 
+HTML	applinks	Applinks 
+HTML	html-email	HTML emails 
+HTML	html-input	Input tag 
+HTML	html-meta	HTML meta tags 
+HTML	html-microformats	Microformats 
+HTML	html-share	Share links 
+HTML	html	HTML 
+HTML	ie	Internet Explorer 
+HTML	ie_bugs	Legacy IE bugs 
+HTML	layout-thrashing	Layout thrashing 
+HTML	xpath	Xpath 
+Java & JVM	kotlin	Kotlin 
+JavaScript	canvas	Canvas 
+JavaScript	dom-range	DOM Range 
+JavaScript	dom-selection	DOM Selection 
+JavaScript	es6	ES2015+ 
+JavaScript	js-appcache	applicationCache 
+JavaScript	js-array	JavaScript Arrays 
+JavaScript	js-date	JavaScript Date 
+JavaScript	js-fetch	fetch() 
+JavaScript	js-lazy	JavaScript lazy shortcuts 
+JavaScript	js-speech	JavaScript speech synthesis 
+JavaScript	jsdoc	Jsdoc 
+JavaScript	npm	npm 
+JavaScript	promise	Promises 
+JavaScript	vue	Vue.js 
+JavaScript	vue@1.0.28	Vue.js v1.0.28 
+JavaScript	web-workers	Web workers 
+JavaScript libraries	101	101 
+JavaScript libraries	angularjs	Angular.js 
+JavaScript libraries	backbone	Backbone.js 
+JavaScript libraries	blessed	Blessed 
+JavaScript libraries	bluebird	bluebird.js 
+JavaScript libraries	bookshelf	Bookshelf.js 
+JavaScript libraries	deprecated/bower-api	Bower API 
+JavaScript libraries	browser-sync	Browsersync 
+JavaScript libraries	browserify	Browserify 
+JavaScript libraries	camp	Camp 
+JavaScript libraries	chai	Chai.js 
+JavaScript libraries	co	co 
+JavaScript libraries	commander.js	Commander.js 
+JavaScript libraries	deku	Deku v2 
+JavaScript libraries	deku@1	Deku v1 
+JavaScript libraries	ember	Ember.js 
+JavaScript libraries	expectjs	expect.js 
+JavaScript libraries	express	Express.js 
+JavaScript libraries	fastify	Fastify 
+JavaScript libraries	flow	Flow 
+JavaScript libraries	gremlins	Gremlins.js 
+JavaScript libraries	gulp	Gulp 
+JavaScript libraries	handlebars.js	Handlebars.js 
+JavaScript libraries	harvey.js	Harvey.js 
+JavaScript libraries	immutable.js	Immutable.js 
+JavaScript libraries	jade	Jade /pug
+JavaScript libraries	jasmine	Jasmine 
+JavaScript libraries	jest	Jest 
+JavaScript libraries	jquery-cdn	jQuery CDN 
+JavaScript libraries	jquery	jQuery 
+JavaScript libraries	js-model	js-model 
+JavaScript libraries	jscoverage	jscoverage 
+JavaScript libraries	jshint	Jshint 
+JavaScript libraries	koa	Koa 
+JavaScript libraries	lodash	Lodash 
+JavaScript libraries	meow	Meow 
+JavaScript libraries	middleman	Middleman 3 
+JavaScript libraries	minimist	minimist 
+JavaScript libraries	mobx	Mobx 
+JavaScript libraries	mocha-blanket	Mocha blanket 
+JavaScript libraries	mocha-html	Mocha HTML 
+JavaScript libraries	mocha-tdd	Mocha.js TDD interface 
+JavaScript libraries	mocha	Mocha.js 
+JavaScript libraries	modella	Modella 
+JavaScript libraries	modernizr	Modernizr 
+JavaScript libraries	moment	Moment.js 
+JavaScript libraries	nock	Nock 
+JavaScript libraries	nopt	Nopt 
+JavaScript libraries	parsimmon	Parsimmon 
+JavaScript libraries	parsley	Parsley.js 
+JavaScript libraries	polyfill.io	Polyfill.io 
+JavaScript libraries	pug	Pug 
+JavaScript libraries	qjs	Q.js 
+JavaScript libraries	qunit	Qunit 
+JavaScript libraries	ractive	Ractive.js 
+JavaScript libraries	riot	Riot.js 
+JavaScript libraries	rollup	Rollup.js 
+JavaScript libraries	shelljs	Shell.js 
+JavaScript libraries	sinon-chai	Sinon-chai 
+JavaScript libraries	sinon	Sinon 
+JavaScript libraries	spine	Spine 
+JavaScript libraries	stencil	Stencil 
+JavaScript libraries	superagent	Superagent 
+JavaScript libraries	tape	Tape 
+JavaScript libraries	typescript	TypeScript 
+JavaScript libraries	umdjs	Universal JS module loader 
+JavaScript libraries	underscore-string	Underscore-string 
+JavaScript libraries	virtual-dom	Virtual-dom 
+JavaScript libraries	vows	Vows 
+JavaScript libraries	webpack	Webpack 
+JavaScript libraries	weinre	Weinre 
+JavaScript libraries	yargs	Yargs 
+JavaScript libraries	yarn	Yarn 
+JavaScript libraries	zombie	Zombie 
+Jekyll	gh-pages	GitHub pages 
+Jekyll	jekyll-github	Jekyll for GitHub pages 
+Jekyll	jekyll	Jekyll 
+Ledger	hledger	Hledger 
+Ledger	ledger-csv	Ledger CSV format 
+Ledger	ledger-examples	Ledger examples 
+Ledger	ledger-format	Ledger format 
+Ledger	ledger-periods	Ledger periods 
+Ledger	ledger-query	Ledger queries 
+Ledger	ledger	Ledger CLI 
+Markup	emmet	Emmet 
+Markup	haml	Haml 
+Markup	kramdown	Kramdown 
+Markup	markdown	Markdown 
+Markup	rdoc	Rdoc 
+Markup	rst	ReStructuredText 
+Markup	textile	Textile 
+Markup	tomdoc	Tomdoc 
+Markup	yaml	Yaml 
+macOS	applescript	AppleScript 
+macOS	macos-mouse-acceleration	Mouse Acceleration 
+macOS	osx	OS X 
+Node.js	nodejs-assert	assert 
+Node.js	nodejs-fs	fs 
+Node.js	nodejs-path	Node.js path API 
+Node.js	nodejs-process	process 
+Node.js	nodejs-stream	Node.js streams 
+Node.js	nodejs	Node.js API 
+Node.js	package-json	package.json 
+PHP	wip/php	PHP 
+Python	python	Python 
+Rails	arel	Arel 
+Rails	rails-controllers	Controllers 
+Rails	rails-forms	Form helpers 
+Rails	rails-helpers	Helpers 
+Rails	rails-i18n	i18n 
+Rails	rails-migrations	Migrations 
+Rails	rails-models	Rails models 
+Rails	rails-plugins	Rails plugins 
+Rails	rails-routes	Routes 
+Rails	rails-tricks	Rails tricks 
+Rails	rails	Rails 
+React	awesome-redux	Awesome Redux 
+React	enzyme	Enzyme 
+React	enzyme@2	Enzyme v2 
+React	flux	Flux architecture 
+React	react-router	React-router 
+React	react	React.js 
+React	react@0.14	React.js (v0.14) 
+React	redux	Redux 
+Ruby	activeadmin	ActiveAdmin 
+Ruby	bundler	Bundler 
+Ruby	goby	Goby 
+Ruby	minitest	Minitest 
+Ruby	rake	Rake 
+Ruby	rbenv	rbenv 
+Ruby	rspec-rails	Rspec-rails 
+Ruby	rspec	RSpec 
+Ruby	ruby	Ruby 
+Ruby	ruby21	Ruby 2.1 
+Ruby	rubygems	Rubygems 
+Ruby	stimulus-reflex	StimulusReflex 
+Ruby libraries	capybara	Capybara 
+Ruby libraries	chunky_png	Chunky PNG 
+Ruby libraries	do	Do gem 
+Ruby libraries	factory_bot	Factory Bot 
+Ruby libraries	ffaker	FFaker 
+Ruby libraries	machinist	Machinist 
+Ruby libraries	meta-tags	Meta-tags gem 
+Ruby libraries	pry	Pry 
+Ruby libraries	psdrb	PSD.rb 
+Ruby libraries	rack-test	rack-test 
+Ruby libraries	ronn	Ronn 
+Ruby libraries	sequel	Sequel 
+Ruby libraries	sequelize	Sequelize 
+Ruby libraries	slim	Slim 
+Vim	projectionist	Projectionist 
+Vim	tabular	Tabular 
+Vim	vim-diff	Vimdiff 
+Vim	vim-digraphs	Vim digraphs 
+Vim	vim-easyalign	Vim Easyalign 
+Vim	vim-help	Vim helpfiles 
+Vim	vim-rails	Vim-rails 
+Vim	vim-unite	Vim-Unite 
+Vim	vim	Vim 
+Vim	vimscript-functions	Vimscript functions 
+Vim	vimscript-snippets	Vimscript snippets 
+Vim	vimscript	Vim scripting 
+Fitness	fitness/general	General fitness notes 
+Fitness	fitness/micronutrients	Essential micronutrients 
+Fitness	fitness/phat	Phat 
+Others	cask-index	Caskroom index 
+Others	cheatsheet-styles	Cheatsheet styles 
+Others	command_line	Command line stuff 
+Others	cordova	Apache Cordova 
+Others	datetime	Date & time formats 
+Others	devise	Devise 
+Others	divshot	Divshot 
+Others	figlet	Figlet 
+Others	firebase	Firebase 
+Others	firefox	Firefox 
+Others	freenode	Freenode 
+Others	frequency-separation-retouching	Frequency separation retouching 
+Others	google-webfonts	Google Webfonts 
+Others	google_analytics	Google Analytics 
+Others	imagemagick	Imagemagick 
+Others	ios-provision	iOS Provisioning Profiles 
+Others	less	Less.js 
+Others	licenses	Licenses 
+Others	linux	Linux 
+Others	lua	Lua 
+Others	make-assets	Make for assets 
+Others	nocode	Nocode 
+Others	passenger	Phusion Passenger 
+Others	ph-food-delivery	Food delivery (Philippines) 
+Others	plantuml	PlantUML 
+Others	premailer	Premailer 
+Others	regexp	regexp 
+Others	resolutions	Screen resolutions 
+Others	saucelabs	Saucelabs 
+Others	semver	Semver 
+Others	siege	Siege 
+Others	simple_form	SimpleForm 
+Others	social-images	Social media images 
+Others	spreadsheet	Spreadsheet functions 
+Others	strftime	strftime format 
+Others	ubuntu	Ubuntu 
+Others	unicode	Unicode symbols 
+Others	vainglory	Vainglory 
+Others	watchman	Watchman 
+Others	znc	ZNC bouncer 
