@@ -1,350 +1,350 @@
-Ruby	stimulus-reflex	StimulusReflex 
-CLI	screen	Screen 
-Ruby libraries	factory_bot	Factory Bot 
-Vim	vimscript	Vim scripting 
-Vim	vim	Vim 
-React	react	React.js 
-Databases	mysql	MySQL 
-CLI	httpie	httpie 
-JavaScript libraries	flow	Flow 
-CLI	bash	Bash scripting 
-CSS	sass	Sass 
-Others	resolutions	Screen resolutions 
-Markup	emmet	Emmet 
-Markup	markdown	Markdown 
-JavaScript libraries	lodash	Lodash 
-Node.js	package-json	package.json 
-JavaScript	jsdoc	Jsdoc 
-C-like	go	Go 
-Analytics	analytics.js	Google Analytics's analytics.js 
-Analytics	analytics	Analytics libraries 
-Analytics	mixpanel	Mixpanel 
-Ansible	ansible-examples	Ansible examples 
-Ansible	ansible-guide	Ansible quickstart 
-Ansible	ansible-modules	Ansible modules 
-Ansible	ansible-roles	Ansible roles 
-Ansible	ansible	Ansible 
-Apps	atom	Atom 
-Apps	editorconfig	editorconfig 
-Apps	flashlight	Flashlight 
-Apps	inkscape	Inkscape 
-Apps	org-mode	Org Mode 
-Apps	sketch	Sketch 
-Apps	spacemacs	Spacemacs 
-Apps	sublime-text	Sublime Text 
-Apps	vscode	Visual Studio Code 
-Apps	weechat	Weechat 
-C-like	c_preprocessor	C Preprocessor 
-C-like	csharp7	C# 7 
-C-like	go	Go 
-CLI	adb	adb (Android Debug Bridge) 
-CLI	animated_gif	Animated GIFs 
-CLI	ansi	Ansi codes 
-CLI	bash	Bash scripting 
-CLI	composer	composer 
-CLI	cron	Cron 
-CLI	curl	Curl 
-CLI	emacs	Emacs 
-CLI	ffmpeg	ffmpeg 
-CLI	find	Find 
-CLI	fish-shell	Fish shell 
-CLI	gnupg	GnuPG 
-CLI	homebrew	Homebrew 
-CLI	httpie	httpie 
-CLI	makefile	Makefile 
-CLI	man	Man 
-CLI	ncftp	ncftp 
-CLI	pass	Pass 
-CLI	pm2	pm2 
-CLI	rename	rename 
-CLI	rsync	Rsync 
-CLI	rtorrent	rTorrent 
-CLI	scp	scp 
-CLI	screen	Screen 
-CLI	sed	sed 
-CLI	sh-pipes	Shell: named pipes 
-CLI	sh	Shell scripting /bash
-CLI	tmux	tmux 
-CLI	top	top 
-CLI	watchexec	Watchexec 
-CLI	zsh	zsh 
-CSS	bootstrap	Bootstrap 
-CSS	bulma	Bulma 
-CSS	css-antialias	CSS antialiasing 
-CSS	css-flexbox	CSS flexbox 
-CSS	css-grid	CSS Grid 
-CSS	css-system-font-stack	CSS system fonts 
-CSS	css-tricks	CSS tricks 
-CSS	css	CSS 
-CSS	cssnext	cssnext 
-CSS	sass	Sass 
-CSS	stylus	Stylus 
-Databases	knex	Knex 
-Databases	mysql	MySQL 
-Databases	postgresql-json	PostgreSQL JSON 
-Databases	postgresql	PostgreSQL 
-Databases	sql-join	SQL joins 
-Devops	awscli	AWS CLI 
-Devops	chef	Chef 
-Devops	circle	CircleCI 
-Devops	deis	Deis 
-Devops	docker-compose	docker-compose 
-Devops	docker	Docker CLI 
-Devops	dockerfile	Dockerfile 
-Devops	flynn	Flynn 
-Devops	heroku	Heroku 
-Devops	travis	Travis.yml 
-Devops	vagrant	Vagrant 
-Devops	vagrantfile	Vagrantfile 
-Elixir	elixir-metaprogramming	Elixir metaprogramming 
-Elixir	elixir	Elixir 
-Elixir	ets	Erlang ETS 
-Elixir	exunit	ExUnit 
-Elixir	phoenix-conn	Phoenix: Plug.Conn 
-Elixir	phoenix-ecto	Phoenix: Ecto 
-Elixir	phoenix-ecto@1.2	Phoenix: Ecto models 
-Elixir	phoenix-migrations	Phoenix: Ecto migrations 
-Elixir	phoenix-routing	Phoenix: Routing 
-Elixir	phoenix	Phoenix 
-Elixir	phoenix@1.2	Phoenix 1.2 
-Git	git-branch	Git branches 
-Git	git-extras	Git extras 
-Git	git-log-format	Git log format string 
-Git	git-log	git log 
-Git	git-revisions	Git revisions 
-Git	git-tricks	Git tricks 
-Git	tig	Tig 
-HTML	appcache	Appcache 
-HTML	applinks	Applinks 
-HTML	html-email	HTML emails 
-HTML	html-input	Input tag 
-HTML	html-meta	HTML meta tags 
-HTML	html-microformats	Microformats 
-HTML	html-share	Share links 
-HTML	html	HTML 
-HTML	ie	Internet Explorer 
-HTML	ie_bugs	Legacy IE bugs 
-HTML	layout-thrashing	Layout thrashing 
-HTML	xpath	Xpath 
-Java & JVM	kotlin	Kotlin 
-JavaScript	canvas	Canvas 
-JavaScript	dom-range	DOM Range 
-JavaScript	dom-selection	DOM Selection 
-JavaScript	es6	ES2015+ 
-JavaScript	js-appcache	applicationCache 
-JavaScript	js-array	JavaScript Arrays 
-JavaScript	js-date	JavaScript Date 
-JavaScript	js-fetch	fetch() 
-JavaScript	js-lazy	JavaScript lazy shortcuts 
-JavaScript	js-speech	JavaScript speech synthesis 
-JavaScript	jsdoc	Jsdoc 
-JavaScript	npm	npm 
-JavaScript	promise	Promises 
-JavaScript	vue	Vue.js 
-JavaScript	vue@1.0.28	Vue.js v1.0.28 
-JavaScript	web-workers	Web workers 
-JavaScript libraries	101	101 
-JavaScript libraries	angularjs	Angular.js 
-JavaScript libraries	backbone	Backbone.js 
-JavaScript libraries	blessed	Blessed 
-JavaScript libraries	bluebird	bluebird.js 
-JavaScript libraries	bookshelf	Bookshelf.js 
-JavaScript libraries	deprecated/bower-api	Bower API 
-JavaScript libraries	browser-sync	Browsersync 
-JavaScript libraries	browserify	Browserify 
-JavaScript libraries	camp	Camp 
-JavaScript libraries	chai	Chai.js 
-JavaScript libraries	co	co 
-JavaScript libraries	commander.js	Commander.js 
-JavaScript libraries	deku	Deku v2 
-JavaScript libraries	deku@1	Deku v1 
-JavaScript libraries	ember	Ember.js 
-JavaScript libraries	expectjs	expect.js 
-JavaScript libraries	express	Express.js 
-JavaScript libraries	fastify	Fastify 
-JavaScript libraries	flow	Flow 
-JavaScript libraries	gremlins	Gremlins.js 
-JavaScript libraries	gulp	Gulp 
-JavaScript libraries	handlebars.js	Handlebars.js 
-JavaScript libraries	harvey.js	Harvey.js 
-JavaScript libraries	immutable.js	Immutable.js 
-JavaScript libraries	jade	Jade /pug
-JavaScript libraries	jasmine	Jasmine 
-JavaScript libraries	jest	Jest 
-JavaScript libraries	jquery-cdn	jQuery CDN 
-JavaScript libraries	jquery	jQuery 
-JavaScript libraries	js-model	js-model 
-JavaScript libraries	jscoverage	jscoverage 
-JavaScript libraries	jshint	Jshint 
-JavaScript libraries	koa	Koa 
-JavaScript libraries	lodash	Lodash 
-JavaScript libraries	meow	Meow 
-JavaScript libraries	middleman	Middleman 3 
-JavaScript libraries	minimist	minimist 
-JavaScript libraries	mobx	Mobx 
-JavaScript libraries	mocha-blanket	Mocha blanket 
-JavaScript libraries	mocha-html	Mocha HTML 
-JavaScript libraries	mocha-tdd	Mocha.js TDD interface 
-JavaScript libraries	mocha	Mocha.js 
-JavaScript libraries	modella	Modella 
-JavaScript libraries	modernizr	Modernizr 
-JavaScript libraries	moment	Moment.js 
-JavaScript libraries	nock	Nock 
-JavaScript libraries	nopt	Nopt 
-JavaScript libraries	parsimmon	Parsimmon 
-JavaScript libraries	parsley	Parsley.js 
-JavaScript libraries	polyfill.io	Polyfill.io 
-JavaScript libraries	pug	Pug 
-JavaScript libraries	qjs	Q.js 
-JavaScript libraries	qunit	Qunit 
-JavaScript libraries	ractive	Ractive.js 
-JavaScript libraries	riot	Riot.js 
-JavaScript libraries	rollup	Rollup.js 
-JavaScript libraries	shelljs	Shell.js 
-JavaScript libraries	sinon-chai	Sinon-chai 
-JavaScript libraries	sinon	Sinon 
-JavaScript libraries	spine	Spine 
-JavaScript libraries	stencil	Stencil 
-JavaScript libraries	superagent	Superagent 
-JavaScript libraries	tape	Tape 
-JavaScript libraries	typescript	TypeScript 
-JavaScript libraries	umdjs	Universal JS module loader 
-JavaScript libraries	underscore-string	Underscore-string 
-JavaScript libraries	virtual-dom	Virtual-dom 
-JavaScript libraries	vows	Vows 
-JavaScript libraries	webpack	Webpack 
-JavaScript libraries	weinre	Weinre 
-JavaScript libraries	yargs	Yargs 
-JavaScript libraries	yarn	Yarn 
-JavaScript libraries	zombie	Zombie 
-Jekyll	gh-pages	GitHub pages 
-Jekyll	jekyll-github	Jekyll for GitHub pages 
-Jekyll	jekyll	Jekyll 
-Ledger	hledger	Hledger 
-Ledger	ledger-csv	Ledger CSV format 
-Ledger	ledger-examples	Ledger examples 
-Ledger	ledger-format	Ledger format 
-Ledger	ledger-periods	Ledger periods 
-Ledger	ledger-query	Ledger queries 
-Ledger	ledger	Ledger CLI 
-Markup	emmet	Emmet 
-Markup	haml	Haml 
-Markup	kramdown	Kramdown 
-Markup	markdown	Markdown 
-Markup	rdoc	Rdoc 
-Markup	rst	ReStructuredText 
-Markup	textile	Textile 
-Markup	tomdoc	Tomdoc 
-Markup	yaml	Yaml 
-macOS	applescript	AppleScript 
-macOS	macos-mouse-acceleration	Mouse Acceleration 
-macOS	osx	OS X 
-Node.js	nodejs-assert	assert 
-Node.js	nodejs-fs	fs 
-Node.js	nodejs-path	Node.js path API 
-Node.js	nodejs-process	process 
-Node.js	nodejs-stream	Node.js streams 
-Node.js	nodejs	Node.js API 
-Node.js	package-json	package.json 
-PHP	wip/php	PHP 
-Python	python	Python 
-Rails	arel	Arel 
-Rails	rails-controllers	Controllers 
-Rails	rails-forms	Form helpers 
-Rails	rails-helpers	Helpers 
-Rails	rails-i18n	i18n 
-Rails	rails-migrations	Migrations 
-Rails	rails-models	Rails models 
-Rails	rails-plugins	Rails plugins 
-Rails	rails-routes	Routes 
-Rails	rails-tricks	Rails tricks 
-Rails	rails	Rails 
-React	awesome-redux	Awesome Redux 
-React	enzyme	Enzyme 
-React	enzyme@2	Enzyme v2 
-React	flux	Flux architecture 
-React	react-router	React-router 
-React	react	React.js 
-React	react@0.14	React.js (v0.14) 
-React	redux	Redux 
-Ruby	activeadmin	ActiveAdmin 
-Ruby	bundler	Bundler 
-Ruby	goby	Goby 
-Ruby	minitest	Minitest 
-Ruby	rake	Rake 
-Ruby	rbenv	rbenv 
-Ruby	rspec-rails	Rspec-rails 
-Ruby	rspec	RSpec 
-Ruby	ruby	Ruby 
-Ruby	ruby21	Ruby 2.1 
-Ruby	rubygems	Rubygems 
-Ruby	stimulus-reflex	StimulusReflex 
-Ruby libraries	capybara	Capybara 
-Ruby libraries	chunky_png	Chunky PNG 
-Ruby libraries	do	Do gem 
-Ruby libraries	factory_bot	Factory Bot 
-Ruby libraries	ffaker	FFaker 
-Ruby libraries	machinist	Machinist 
-Ruby libraries	meta-tags	Meta-tags gem 
-Ruby libraries	pry	Pry 
-Ruby libraries	psdrb	PSD.rb 
-Ruby libraries	rack-test	rack-test 
-Ruby libraries	ronn	Ronn 
-Ruby libraries	sequel	Sequel 
-Ruby libraries	sequelize	Sequelize 
-Ruby libraries	slim	Slim 
-Vim	projectionist	Projectionist 
-Vim	tabular	Tabular 
-Vim	vim-diff	Vimdiff 
-Vim	vim-digraphs	Vim digraphs 
-Vim	vim-easyalign	Vim Easyalign 
-Vim	vim-help	Vim helpfiles 
-Vim	vim-rails	Vim-rails 
-Vim	vim-unite	Vim-Unite 
-Vim	vim	Vim 
-Vim	vimscript-functions	Vimscript functions 
-Vim	vimscript-snippets	Vimscript snippets 
-Vim	vimscript	Vim scripting 
-Fitness	fitness/general	General fitness notes 
-Fitness	fitness/micronutrients	Essential micronutrients 
-Fitness	fitness/phat	Phat 
-Others	cask-index	Caskroom index 
-Others	cheatsheet-styles	Cheatsheet styles 
-Others	command_line	Command line stuff 
-Others	cordova	Apache Cordova 
-Others	datetime	Date & time formats 
-Others	devise	Devise 
-Others	divshot	Divshot 
-Others	figlet	Figlet 
-Others	firebase	Firebase 
-Others	firefox	Firefox 
-Others	freenode	Freenode 
-Others	frequency-separation-retouching	Frequency separation retouching 
-Others	google-webfonts	Google Webfonts 
-Others	google_analytics	Google Analytics 
-Others	imagemagick	Imagemagick 
-Others	ios-provision	iOS Provisioning Profiles 
-Others	less	Less.js 
-Others	licenses	Licenses 
-Others	linux	Linux 
-Others	lua	Lua 
-Others	make-assets	Make for assets 
-Others	nocode	Nocode 
-Others	passenger	Phusion Passenger 
-Others	ph-food-delivery	Food delivery (Philippines) 
-Others	plantuml	PlantUML 
-Others	premailer	Premailer 
-Others	regexp	regexp 
-Others	resolutions	Screen resolutions 
-Others	saucelabs	Saucelabs 
-Others	semver	Semver 
-Others	siege	Siege 
-Others	simple_form	SimpleForm 
-Others	social-images	Social media images 
-Others	spreadsheet	Spreadsheet functions 
-Others	strftime	strftime format 
-Others	ubuntu	Ubuntu 
-Others	unicode	Unicode symbols 
-Others	vainglory	Vainglory 
-Others	watchman	Watchman 
-Others	znc	ZNC bouncer 
+[90mAnalytics  [39m[36manalytics                        [39mAnalytics libraries 
+[90mAnalytics  [39m[36manalytics.js                     [39mGoogle Analytics's analytics.js 
+[90mAnalytics  [39m[36mmixpanel                         [39mMixpanel 
+[90mAnsible    [39m[36mansible                          [39mAnsible 
+[90mAnsible    [39m[36mansible-examples                 [39mAnsible examples 
+[90mAnsible    [39m[36mansible-guide                    [39mAnsible quickstart 
+[90mAnsible    [39m[36mansible-modules                  [39mAnsible modules 
+[90mAnsible    [39m[36mansible-roles                    [39mAnsible roles 
+[90mApps       [39m[36matom                             [39mAtom 
+[90mApps       [39m[36meditorconfig                     [39meditorconfig 
+[90mApps       [39m[36mflashlight                       [39mFlashlight 
+[90mApps       [39m[36minkscape                         [39mInkscape 
+[90mApps       [39m[36morg-mode                         [39mOrg Mode 
+[90mApps       [39m[36msketch                           [39mSketch 
+[90mApps       [39m[36mspacemacs                        [39mSpacemacs 
+[90mApps       [39m[36msublime-text                     [39mSublime Text 
+[90mApps       [39m[36mvscode                           [39mVisual Studio Code 
+[90mApps       [39m[36mweechat                          [39mWeechat 
+[90mC-like     [39m[36mc_preprocessor                   [39mC Preprocessor 
+[90mC-like     [39m[36mcsharp7                          [39mC# 7 
+[90mC-like     [39m[36mgo                               [39mGo 
+[90mC-like     [39m[36mgo                               [39mGo 
+[90mCLI        [39m[36madb                              [39madb (Android Debug Bridge) 
+[90mCLI        [39m[36manimated_gif                     [39mAnimated GIFs 
+[90mCLI        [39m[36mansi                             [39mAnsi codes 
+[90mCLI        [39m[36mbash                             [39mBash scripting 
+[90mCLI        [39m[36mbash                             [39mBash scripting 
+[90mCLI        [39m[36mcomposer                         [39mcomposer 
+[90mCLI        [39m[36mcron                             [39mCron 
+[90mCLI        [39m[36mcurl                             [39mCurl 
+[90mCLI        [39m[36memacs                            [39mEmacs 
+[90mCLI        [39m[36mffmpeg                           [39mffmpeg 
+[90mCLI        [39m[36mfind                             [39mFind 
+[90mCLI        [39m[36mfish-shell                       [39mFish shell 
+[90mCLI        [39m[36mgnupg                            [39mGnuPG 
+[90mCLI        [39m[36mhomebrew                         [39mHomebrew 
+[90mCLI        [39m[36mhttpie                           [39mhttpie 
+[90mCLI        [39m[36mhttpie                           [39mhttpie 
+[90mCLI        [39m[36mmakefile                         [39mMakefile 
+[90mCLI        [39m[36mman                              [39mMan 
+[90mCLI        [39m[36mncftp                            [39mncftp 
+[90mCLI        [39m[36mpass                             [39mPass 
+[90mCLI        [39m[36mpm2                              [39mpm2 
+[90mCLI        [39m[36mrename                           [39mrename 
+[90mCLI        [39m[36mrsync                            [39mRsync 
+[90mCLI        [39m[36mrtorrent                         [39mrTorrent 
+[90mCLI        [39m[36mscp                              [39mscp 
+[90mCLI        [39m[36mscreen                           [39mScreen 
+[90mCLI        [39m[36mscreen                           [39mScreen 
+[90mCLI        [39m[36msed                              [39msed 
+[90mCLI        [39m[36msh                               [39mShell scripting /bash
+[90mCLI        [39m[36msh-pipes                         [39mShell: named pipes 
+[90mCLI        [39m[36mtmux                             [39mtmux 
+[90mCLI        [39m[36mtop                              [39mtop 
+[90mCLI        [39m[36mwatchexec                        [39mWatchexec 
+[90mCLI        [39m[36mzsh                              [39mzsh 
+[90mCSS        [39m[36mbootstrap                        [39mBootstrap 
+[90mCSS        [39m[36mbulma                            [39mBulma 
+[90mCSS        [39m[36mcss                              [39mCSS 
+[90mCSS        [39m[36mcss-antialias                    [39mCSS antialiasing 
+[90mCSS        [39m[36mcss-flexbox                      [39mCSS flexbox 
+[90mCSS        [39m[36mcss-grid                         [39mCSS Grid 
+[90mCSS        [39m[36mcss-system-font-stack            [39mCSS system fonts 
+[90mCSS        [39m[36mcss-tricks                       [39mCSS tricks 
+[90mCSS        [39m[36mcssnext                          [39mcssnext 
+[90mCSS        [39m[36msass                             [39mSass 
+[90mCSS        [39m[36msass                             [39mSass 
+[90mCSS        [39m[36mstylus                           [39mStylus 
+[90mDatabases  [39m[36mknex                             [39mKnex 
+[90mDatabases  [39m[36mmysql                            [39mMySQL 
+[90mDatabases  [39m[36mmysql                            [39mMySQL 
+[90mDatabases  [39m[36mpostgresql                       [39mPostgreSQL 
+[90mDatabases  [39m[36mpostgresql-json                  [39mPostgreSQL JSON 
+[90mDatabases  [39m[36msql-join                         [39mSQL joins 
+[90mDevops     [39m[36mawscli                           [39mAWS CLI 
+[90mDevops     [39m[36mchef                             [39mChef 
+[90mDevops     [39m[36mcircle                           [39mCircleCI 
+[90mDevops     [39m[36mdeis                             [39mDeis 
+[90mDevops     [39m[36mdocker                           [39mDocker CLI 
+[90mDevops     [39m[36mdocker-compose                   [39mdocker-compose 
+[90mDevops     [39m[36mdockerfile                       [39mDockerfile 
+[90mDevops     [39m[36mflynn                            [39mFlynn 
+[90mDevops     [39m[36mheroku                           [39mHeroku 
+[90mDevops     [39m[36mtravis                           [39mTravis.yml 
+[90mDevops     [39m[36mvagrant                          [39mVagrant 
+[90mDevops     [39m[36mvagrantfile                      [39mVagrantfile 
+[90mElixir     [39m[36melixir                           [39mElixir 
+[90mElixir     [39m[36melixir-metaprogramming           [39mElixir metaprogramming 
+[90mElixir     [39m[36mets                              [39mErlang ETS 
+[90mElixir     [39m[36mexunit                           [39mExUnit 
+[90mElixir     [39m[36mphoenix                          [39mPhoenix 
+[90mElixir     [39m[36mphoenix-conn                     [39mPhoenix: Plug.Conn 
+[90mElixir     [39m[36mphoenix-ecto                     [39mPhoenix: Ecto 
+[90mElixir     [39m[36mphoenix-ecto@1.2                 [39mPhoenix: Ecto models 
+[90mElixir     [39m[36mphoenix-migrations               [39mPhoenix: Ecto migrations 
+[90mElixir     [39m[36mphoenix-routing                  [39mPhoenix: Routing 
+[90mElixir     [39m[36mphoenix@1.2                      [39mPhoenix 1.2 
+[90mFitness    [39m[36mfitness/general                  [39mGeneral fitness notes 
+[90mFitness    [39m[36mfitness/micronutrients           [39mEssential micronutrients 
+[90mFitness    [39m[36mfitness/phat                     [39mPhat 
+[90mGit        [39m[36mgit-branch                       [39mGit branches 
+[90mGit        [39m[36mgit-extras                       [39mGit extras 
+[90mGit        [39m[36mgit-log                          [39mgit log 
+[90mGit        [39m[36mgit-log-format                   [39mGit log format string 
+[90mGit        [39m[36mgit-revisions                    [39mGit revisions 
+[90mGit        [39m[36mgit-tricks                       [39mGit tricks 
+[90mGit        [39m[36mtig                              [39mTig 
+[90mHTML       [39m[36mappcache                         [39mAppcache 
+[90mHTML       [39m[36mapplinks                         [39mApplinks 
+[90mHTML       [39m[36mhtml                             [39mHTML 
+[90mHTML       [39m[36mhtml-email                       [39mHTML emails 
+[90mHTML       [39m[36mhtml-input                       [39mInput tag 
+[90mHTML       [39m[36mhtml-meta                        [39mHTML meta tags 
+[90mHTML       [39m[36mhtml-microformats                [39mMicroformats 
+[90mHTML       [39m[36mhtml-share                       [39mShare links 
+[90mHTML       [39m[36mie                               [39mInternet Explorer 
+[90mHTML       [39m[36mie_bugs                          [39mLegacy IE bugs 
+[90mHTML       [39m[36mlayout-thrashing                 [39mLayout thrashing 
+[90mHTML       [39m[36mxpath                            [39mXpath 
+[90mJS         [39m[36mcanvas                           [39mCanvas 
+[90mJS         [39m[36mdom-range                        [39mDOM Range 
+[90mJS         [39m[36mdom-selection                    [39mDOM Selection 
+[90mJS         [39m[36mes6                              [39mES2015+ 
+[90mJS         [39m[36mjs-appcache                      [39mapplicationCache 
+[90mJS         [39m[36mjs-array                         [39mJavaScript Arrays 
+[90mJS         [39m[36mjs-date                          [39mJavaScript Date 
+[90mJS         [39m[36mjs-fetch                         [39mfetch() 
+[90mJS         [39m[36mjs-lazy                          [39mJavaScript lazy shortcuts 
+[90mJS         [39m[36mjs-speech                        [39mJavaScript speech synthesis 
+[90mJS         [39m[36mjsdoc                            [39mJsdoc 
+[90mJS         [39m[36mjsdoc                            [39mJsdoc 
+[90mJS         [39m[36mnpm                              [39mnpm 
+[90mJS         [39m[36mpromise                          [39mPromises 
+[90mJS         [39m[36mvue                              [39mVue.js 
+[90mJS         [39m[36mvue@1.0.28                       [39mVue.js v1.0.28 
+[90mJS         [39m[36mweb-workers                      [39mWeb workers 
+[90mJS libs    [39m[36m101                              [39m101 
+[90mJS libs    [39m[36mangularjs                        [39mAngular.js 
+[90mJS libs    [39m[36mbackbone                         [39mBackbone.js 
+[90mJS libs    [39m[36mblessed                          [39mBlessed 
+[90mJS libs    [39m[36mbluebird                         [39mbluebird.js 
+[90mJS libs    [39m[36mbookshelf                        [39mBookshelf.js 
+[90mJS libs    [39m[36mbrowser-sync                     [39mBrowsersync 
+[90mJS libs    [39m[36mbrowserify                       [39mBrowserify 
+[90mJS libs    [39m[36mcamp                             [39mCamp 
+[90mJS libs    [39m[36mchai                             [39mChai.js 
+[90mJS libs    [39m[36mco                               [39mco 
+[90mJS libs    [39m[36mcommander.js                     [39mCommander.js 
+[90mJS libs    [39m[36mdeku                             [39mDeku v2 
+[90mJS libs    [39m[36mdeku@1                           [39mDeku v1 
+[90mJS libs    [39m[36mdeprecated/bower-api             [39mBower API 
+[90mJS libs    [39m[36member                            [39mEmber.js 
+[90mJS libs    [39m[36mexpectjs                         [39mexpect.js 
+[90mJS libs    [39m[36mexpress                          [39mExpress.js 
+[90mJS libs    [39m[36mfastify                          [39mFastify 
+[90mJS libs    [39m[36mflow                             [39mFlow 
+[90mJS libs    [39m[36mflow                             [39mFlow 
+[90mJS libs    [39m[36mgremlins                         [39mGremlins.js 
+[90mJS libs    [39m[36mgulp                             [39mGulp 
+[90mJS libs    [39m[36mhandlebars.js                    [39mHandlebars.js 
+[90mJS libs    [39m[36mharvey.js                        [39mHarvey.js 
+[90mJS libs    [39m[36mimmutable.js                     [39mImmutable.js 
+[90mJS libs    [39m[36mjade                             [39mJade /pug
+[90mJS libs    [39m[36mjasmine                          [39mJasmine 
+[90mJS libs    [39m[36mjest                             [39mJest 
+[90mJS libs    [39m[36mjquery                           [39mjQuery 
+[90mJS libs    [39m[36mjquery-cdn                       [39mjQuery CDN 
+[90mJS libs    [39m[36mjs-model                         [39mjs-model 
+[90mJS libs    [39m[36mjscoverage                       [39mjscoverage 
+[90mJS libs    [39m[36mjshint                           [39mJshint 
+[90mJS libs    [39m[36mkoa                              [39mKoa 
+[90mJS libs    [39m[36mlodash                           [39mLodash 
+[90mJS libs    [39m[36mlodash                           [39mLodash 
+[90mJS libs    [39m[36mmeow                             [39mMeow 
+[90mJS libs    [39m[36mmiddleman                        [39mMiddleman 3 
+[90mJS libs    [39m[36mminimist                         [39mminimist 
+[90mJS libs    [39m[36mmobx                             [39mMobx 
+[90mJS libs    [39m[36mmocha                            [39mMocha.js 
+[90mJS libs    [39m[36mmocha-blanket                    [39mMocha blanket 
+[90mJS libs    [39m[36mmocha-html                       [39mMocha HTML 
+[90mJS libs    [39m[36mmocha-tdd                        [39mMocha.js TDD interface 
+[90mJS libs    [39m[36mmodella                          [39mModella 
+[90mJS libs    [39m[36mmodernizr                        [39mModernizr 
+[90mJS libs    [39m[36mmoment                           [39mMoment.js 
+[90mJS libs    [39m[36mnock                             [39mNock 
+[90mJS libs    [39m[36mnopt                             [39mNopt 
+[90mJS libs    [39m[36mparsimmon                        [39mParsimmon 
+[90mJS libs    [39m[36mparsley                          [39mParsley.js 
+[90mJS libs    [39m[36mpolyfill.io                      [39mPolyfill.io 
+[90mJS libs    [39m[36mpug                              [39mPug 
+[90mJS libs    [39m[36mqjs                              [39mQ.js 
+[90mJS libs    [39m[36mqunit                            [39mQunit 
+[90mJS libs    [39m[36mractive                          [39mRactive.js 
+[90mJS libs    [39m[36mriot                             [39mRiot.js 
+[90mJS libs    [39m[36mrollup                           [39mRollup.js 
+[90mJS libs    [39m[36mshelljs                          [39mShell.js 
+[90mJS libs    [39m[36msinon                            [39mSinon 
+[90mJS libs    [39m[36msinon-chai                       [39mSinon-chai 
+[90mJS libs    [39m[36mspine                            [39mSpine 
+[90mJS libs    [39m[36mstencil                          [39mStencil 
+[90mJS libs    [39m[36msuperagent                       [39mSuperagent 
+[90mJS libs    [39m[36mtape                             [39mTape 
+[90mJS libs    [39m[36mtypescript                       [39mTypeScript 
+[90mJS libs    [39m[36mumdjs                            [39mUniversal JS module loader 
+[90mJS libs    [39m[36munderscore-string                [39mUnderscore-string 
+[90mJS libs    [39m[36mvirtual-dom                      [39mVirtual-dom 
+[90mJS libs    [39m[36mvows                             [39mVows 
+[90mJS libs    [39m[36mwebpack                          [39mWebpack 
+[90mJS libs    [39m[36mweinre                           [39mWeinre 
+[90mJS libs    [39m[36myargs                            [39mYargs 
+[90mJS libs    [39m[36myarn                             [39mYarn 
+[90mJS libs    [39m[36mzombie                           [39mZombie 
+[90mJava       [39m[36mkotlin                           [39mKotlin 
+[90mJekyll     [39m[36mgh-pages                         [39mGitHub pages 
+[90mJekyll     [39m[36mjekyll                           [39mJekyll 
+[90mJekyll     [39m[36mjekyll-github                    [39mJekyll for GitHub pages 
+[90mLedger     [39m[36mhledger                          [39mHledger 
+[90mLedger     [39m[36mledger                           [39mLedger CLI 
+[90mLedger     [39m[36mledger-csv                       [39mLedger CSV format 
+[90mLedger     [39m[36mledger-examples                  [39mLedger examples 
+[90mLedger     [39m[36mledger-format                    [39mLedger format 
+[90mLedger     [39m[36mledger-periods                   [39mLedger periods 
+[90mLedger     [39m[36mledger-query                     [39mLedger queries 
+[90mMarkup     [39m[36memmet                            [39mEmmet 
+[90mMarkup     [39m[36memmet                            [39mEmmet 
+[90mMarkup     [39m[36mhaml                             [39mHaml 
+[90mMarkup     [39m[36mkramdown                         [39mKramdown 
+[90mMarkup     [39m[36mmarkdown                         [39mMarkdown 
+[90mMarkup     [39m[36mmarkdown                         [39mMarkdown 
+[90mMarkup     [39m[36mrdoc                             [39mRdoc 
+[90mMarkup     [39m[36mrst                              [39mReStructuredText 
+[90mMarkup     [39m[36mtextile                          [39mTextile 
+[90mMarkup     [39m[36mtomdoc                           [39mTomdoc 
+[90mMarkup     [39m[36myaml                             [39mYaml 
+[90mNode.js    [39m[36mnodejs                           [39mNode.js API 
+[90mNode.js    [39m[36mnodejs-assert                    [39massert 
+[90mNode.js    [39m[36mnodejs-fs                        [39mfs 
+[90mNode.js    [39m[36mnodejs-path                      [39mNode.js path API 
+[90mNode.js    [39m[36mnodejs-process                   [39mprocess 
+[90mNode.js    [39m[36mnodejs-stream                    [39mNode.js streams 
+[90mNode.js    [39m[36mpackage-json                     [39mpackage.json 
+[90mNode.js    [39m[36mpackage-json                     [39mpackage.json 
+[90mOthers     [39m[36mcask-index                       [39mCaskroom index 
+[90mOthers     [39m[36mcheatsheet-styles                [39mCheatsheet styles 
+[90mOthers     [39m[36mcommand_line                     [39mCommand line stuff 
+[90mOthers     [39m[36mcordova                          [39mApache Cordova 
+[90mOthers     [39m[36mdatetime                         [39mDate & time formats 
+[90mOthers     [39m[36mdevise                           [39mDevise 
+[90mOthers     [39m[36mdivshot                          [39mDivshot 
+[90mOthers     [39m[36mfiglet                           [39mFiglet 
+[90mOthers     [39m[36mfirebase                         [39mFirebase 
+[90mOthers     [39m[36mfirefox                          [39mFirefox 
+[90mOthers     [39m[36mfreenode                         [39mFreenode 
+[90mOthers     [39m[36mfrequency-separation-retouching  [39mFrequency separation retouching 
+[90mOthers     [39m[36mgoogle-webfonts                  [39mGoogle Webfonts 
+[90mOthers     [39m[36mgoogle_analytics                 [39mGoogle Analytics 
+[90mOthers     [39m[36mimagemagick                      [39mImagemagick 
+[90mOthers     [39m[36mios-provision                    [39miOS Provisioning Profiles 
+[90mOthers     [39m[36mless                             [39mLess.js 
+[90mOthers     [39m[36mlicenses                         [39mLicenses 
+[90mOthers     [39m[36mlinux                            [39mLinux 
+[90mOthers     [39m[36mlua                              [39mLua 
+[90mOthers     [39m[36mmake-assets                      [39mMake for assets 
+[90mOthers     [39m[36mnocode                           [39mNocode 
+[90mOthers     [39m[36mpassenger                        [39mPhusion Passenger 
+[90mOthers     [39m[36mph-food-delivery                 [39mFood delivery (Philippines) 
+[90mOthers     [39m[36mplantuml                         [39mPlantUML 
+[90mOthers     [39m[36mpremailer                        [39mPremailer 
+[90mOthers     [39m[36mregexp                           [39mregexp 
+[90mOthers     [39m[36mresolutions                      [39mScreen resolutions 
+[90mOthers     [39m[36mresolutions                      [39mScreen resolutions 
+[90mOthers     [39m[36msaucelabs                        [39mSaucelabs 
+[90mOthers     [39m[36msemver                           [39mSemver 
+[90mOthers     [39m[36msiege                            [39mSiege 
+[90mOthers     [39m[36msimple_form                      [39mSimpleForm 
+[90mOthers     [39m[36msocial-images                    [39mSocial media images 
+[90mOthers     [39m[36mspreadsheet                      [39mSpreadsheet functions 
+[90mOthers     [39m[36mstrftime                         [39mstrftime format 
+[90mOthers     [39m[36mubuntu                           [39mUbuntu 
+[90mOthers     [39m[36municode                          [39mUnicode symbols 
+[90mOthers     [39m[36mvainglory                        [39mVainglory 
+[90mOthers     [39m[36mwatchman                         [39mWatchman 
+[90mOthers     [39m[36mznc                              [39mZNC bouncer 
+[90mPHP        [39m[36mwip/php                          [39mPHP 
+[90mPython     [39m[36mpython                           [39mPython 
+[90mRails      [39m[36marel                             [39mArel 
+[90mRails      [39m[36mrails                            [39mRails 
+[90mRails      [39m[36mrails-controllers                [39mControllers 
+[90mRails      [39m[36mrails-forms                      [39mForm helpers 
+[90mRails      [39m[36mrails-helpers                    [39mHelpers 
+[90mRails      [39m[36mrails-i18n                       [39mi18n 
+[90mRails      [39m[36mrails-migrations                 [39mMigrations 
+[90mRails      [39m[36mrails-models                     [39mRails models 
+[90mRails      [39m[36mrails-plugins                    [39mRails plugins 
+[90mRails      [39m[36mrails-routes                     [39mRoutes 
+[90mRails      [39m[36mrails-tricks                     [39mRails tricks 
+[90mReact      [39m[36mawesome-redux                    [39mAwesome Redux 
+[90mReact      [39m[36menzyme                           [39mEnzyme 
+[90mReact      [39m[36menzyme@2                         [39mEnzyme v2 
+[90mReact      [39m[36mflux                             [39mFlux architecture 
+[90mReact      [39m[36mreact                            [39mReact.js 
+[90mReact      [39m[36mreact                            [39mReact.js 
+[90mReact      [39m[36mreact-router                     [39mReact-router 
+[90mReact      [39m[36mreact@0.14                       [39mReact.js (v0.14) 
+[90mReact      [39m[36mredux                            [39mRedux 
+[90mRuby       [39m[36mactiveadmin                      [39mActiveAdmin 
+[90mRuby       [39m[36mbundler                          [39mBundler 
+[90mRuby       [39m[36mgoby                             [39mGoby 
+[90mRuby       [39m[36mminitest                         [39mMinitest 
+[90mRuby       [39m[36mrake                             [39mRake 
+[90mRuby       [39m[36mrbenv                            [39mrbenv 
+[90mRuby       [39m[36mrspec                            [39mRSpec 
+[90mRuby       [39m[36mrspec-rails                      [39mRspec-rails 
+[90mRuby       [39m[36mruby                             [39mRuby 
+[90mRuby       [39m[36mruby21                           [39mRuby 2.1 
+[90mRuby       [39m[36mrubygems                         [39mRubygems 
+[90mRuby       [39m[36mstimulus-reflex                  [39mStimulusReflex 
+[90mRuby       [39m[36mstimulus-reflex                  [39mStimulusReflex 
+[90mRuby libs  [39m[36mcapybara                         [39mCapybara 
+[90mRuby libs  [39m[36mchunky_png                       [39mChunky PNG 
+[90mRuby libs  [39m[36mdo                               [39mDo gem 
+[90mRuby libs  [39m[36mfactory_bot                      [39mFactory Bot 
+[90mRuby libs  [39m[36mfactory_bot                      [39mFactory Bot 
+[90mRuby libs  [39m[36mffaker                           [39mFFaker 
+[90mRuby libs  [39m[36mmachinist                        [39mMachinist 
+[90mRuby libs  [39m[36mmeta-tags                        [39mMeta-tags gem 
+[90mRuby libs  [39m[36mpry                              [39mPry 
+[90mRuby libs  [39m[36mpsdrb                            [39mPSD.rb 
+[90mRuby libs  [39m[36mrack-test                        [39mrack-test 
+[90mRuby libs  [39m[36mronn                             [39mRonn 
+[90mRuby libs  [39m[36msequel                           [39mSequel 
+[90mRuby libs  [39m[36msequelize                        [39mSequelize 
+[90mRuby libs  [39m[36mslim                             [39mSlim 
+[90mVim        [39m[36mprojectionist                    [39mProjectionist 
+[90mVim        [39m[36mtabular                          [39mTabular 
+[90mVim        [39m[36mvim                              [39mVim 
+[90mVim        [39m[36mvim                              [39mVim 
+[90mVim        [39m[36mvim-diff                         [39mVimdiff 
+[90mVim        [39m[36mvim-digraphs                     [39mVim digraphs 
+[90mVim        [39m[36mvim-easyalign                    [39mVim Easyalign 
+[90mVim        [39m[36mvim-help                         [39mVim helpfiles 
+[90mVim        [39m[36mvim-rails                        [39mVim-rails 
+[90mVim        [39m[36mvim-unite                        [39mVim-Unite 
+[90mVim        [39m[36mvimscript                        [39mVim scripting 
+[90mVim        [39m[36mvimscript                        [39mVim scripting 
+[90mVim        [39m[36mvimscript-functions              [39mVimscript functions 
+[90mVim        [39m[36mvimscript-snippets               [39mVimscript snippets 
+[90mmacOS      [39m[36mapplescript                      [39mAppleScript 
+[90mmacOS      [39m[36mmacos-mouse-acceleration         [39mMouse Acceleration 
+[90mmacOS      [39m[36mosx                              [39mOS X 

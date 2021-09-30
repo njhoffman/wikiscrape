@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node lib/index.js",
+    "start:list": "node lib/index.js list",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -24,6 +26,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
     "chalk": "^2.4.2",
     "commander": "^7.1.0",
     "lodash": "^4.17.20",
